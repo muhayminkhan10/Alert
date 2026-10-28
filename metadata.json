@@ -1,0 +1,6 @@
+{
+  "name": "Acuity - AI Alert Correlation & Incident Detection Platform",
+  "description": "Production-grade SRE incident detection platform correlating alerts across 70 microservices, reducing noise and pinpointing root causes with deterministic graph reasoning and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
